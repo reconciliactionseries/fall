@@ -1,0 +1,67 @@
+---
+title: "Past Events"
+format: html
+editor: 
+  markdown: 
+    wrap: 72
+---
+Since 2004, students and community members have come together through these events to share knowledge, build relationships, and walk the path of reconciliation. This collection is a tribute to the creativity, commitment, and care that have shaped each gathering. We celebrate the memories, friendships, and learning that continue to inspire our journey today.
+Click on each year to explore the events, and don’t forget to check the additional links at the end for even more stories and resources.
+::: year-links
+<a href="pastevents/2004.pdf" target="_blank" rel="noopener noreferrer">2004</a>
+<a href="pastevents/2010.pdf" target="_blank" rel="noopener noreferrer">2010</a>
+<a href="pastevents/2011.pdf" target="_blank" rel="noopener noreferrer">2011</a>
+<a href="pastevents/2013.pdf" target="_blank" rel="noopener noreferrer">2013</a>
+<a href="pastevents/2014.pdf" target="_blank" rel="noopener noreferrer">2014</a>
+<a href="pastevents/2015.pdf" target="_blank" rel="noopener noreferrer">2015</a>
+<a href="pastevents/2017.pdf" target="_blank" rel="noopener noreferrer">2017</a>
+<a href="pastevents/2021.pdf" target="_blank" rel="noopener noreferrer">2021</a>
+<a href="pastevents/2022.pdf" target="_blank" rel="noopener noreferrer">2022</a>
+:::
+
+```{=html}
+<style>
+.year-links a {
+  display: block;
+  width: 200px;              /* largura do botão (ajuste se quiser mais largo) */
+  margin: 10px auto;         /* centraliza na página */
+  padding: 12px 20px;
+  text-align: center;
+  background: #0056b3;       /* cor do botão */
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+.year-links a:hover {
+  background: #003d80;       /* cor ao passar o mouse */
+}
+</style>
+```
+
+## Read more:
+
+<https://www2.acadiau.ca/about-acadia/newsroom/news-reader-page/acadia-hosts-fourth-annual-sisters-in-spirit-vigil.html>
+
+<https://english.acadiau.ca/news-reader/id-2nd-annual-aboriginal-arts-literature-mawiomi.html>
+
+<https://www.saltwire.com/atlantic-canada/aboriginal-focus-at-acadia-nov-5-6-71262>
+
+<https://www.youtube.com/watch?v=qC0WfolrSrc>
+
+<https://www.cbc.ca/news/canada/nova-scotia/acadia-aboriginal-arts-mawio-mi-1.3237623>
+
+<https://www2.acadiau.ca/about-acadia/newsroom/news-reader-page/indigenous-renaissance-healing-and-reconciliation-through-the-arts.html>
+
+<https://www.saltwire.com/atlantic-canada/healing-and-reconciliation-through-the-arts-session-held-at-acadia-73049>
+
+<https://www.youngsoaringeagle.ca/news/acadia-aboriginal-conference-looking-at-peace-with-the-land-and-each-other>
+
+<https://valleyevents.ca/39104>
+
+<https://nationtalk.ca/story/acadia-u-truth-before-reconciliation-mawiomi-sept-30-oct-4>
+
+<https://theath.ca/arts-culture/truth-before-reconciliation/>
+
+<https://polisci.acadiau.ca/news/news-reader/public-talk-by-chief-sidney-peters-glooscap-first-nation.html>

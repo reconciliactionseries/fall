@@ -3,25 +3,52 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  #title: "ReconciliAction Series Fall 2024"
+  #site-url: https://lanholeto.github.io/portfolio/
+  #description: "Researcher and educator with cell and molecular expertise "
+  favicon: img/icons8-human.svg
+  page-navigation: true
+  back-to-top-navigation: true
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
-    tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+    right:
+    - href: index.qmd
+      text: <i class="bi bi-house-door-fill"></i>
+      
+    - href: about/about.qmd
+      text: "The ReconciliACTION Series"
+      
+    - href: program/program.qmd
+      text: "Program / Photo Gallery"
+      
+    - href: pols3103/pols3103.qmd
+      text: "POLS 3103"
+    
+    - href: pols1303/pols1303.qmd
+      text: "POLS 1303"
+    
+    - href: pols2003/pols2003.qmd
+      text: "POLS 2003"
+    
+    - href: pastevents/pastevents.qmd
+      text: "Past Events"
+    
+    background: primary
+    search: true
+    
+
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2025, ReconciliAction Series Fall 2024"
 
 format:
   html:
-    theme: cerulean
-    toc: true
+    theme: 
+      -litera
+    css: main.css
+    link-external-newwindow: true
+
+resources:
+  - "*.pdf"
 
 editor: source
 

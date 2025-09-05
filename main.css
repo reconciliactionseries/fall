@@ -1,0 +1,114 @@
+/* styles.css */
+
+/* Import Myriad Pro or a similar sans-serif font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+  background-color: #ffffff;
+  line-height: 1.8;
+  font-size: 1em;
+  text-align: justify;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Myriad Pro', sans-serif;
+  color: #00205b; /* Acadia navy blue */
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1.title {
+  color: #00205b;
+  font-size: 2.5em;
+  font-weight: 700;
+  border-bottom: 3px solid #a6192e; /* Acadia red underline */
+  padding-bottom: 0.2em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 1.3em;
+  color: #00205b;
+  font-style: italic;
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+
+
+/* Links */
+a {
+  color: #a6192e; /* Acadia red */
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Buttons */
+button, .btn, .quarto-button {
+  background-color: #00205b;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 0.6em 1.2em;
+  border: none;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+button:hover, .btn:hover, .quarto-button:hover {
+  background-color: #a6192e;
+}
+
+/* Cards or Grid Items */
+.card, .listing-block {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1em;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+footer, .nav-footer, .quarto-footer {
+  background: #08214a !important; /* Use your site's dark blue or whatever color you want */
+  color: #fff !important;         /* Makes the text white for visibility */
+}
+
+/* Navbar background color */
+.navbar, .quarto-navbar {
+  background-color: #00205b !important;
+  color: #ffffff;
+  font-size: 1.3em;
+}
+
+/* Optional: Make navbar links white */
+.navbar a, .quarto-navbar a {
+  color: #ffffff !important;
+}
+
+/* Optional: Navbar hover effect */
+.navbar a:hover, .quarto-navbar a:hover {
+  color: #ffffff !important; /* Acadia red on hover */
+  background-color: #a6192e;
+  text-decoration: none;
+
+}
+
+/* Center the listing block */
+#blog.listing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#blog .listing-item {
+  max-width: 600px;
+  width: 100%;
+  margin-bottom: 1.5em;
+}
+
+/* custom.css */
+main.content {
+  max-width: 1200px; /* ou 100%, dependendo do que quiser */
+  margin: 0 auto;
+}

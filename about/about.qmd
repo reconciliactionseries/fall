@@ -1,0 +1,10 @@
+---
+title: "The Fall 2024 ReconciliACTION Series: Students to Contribute to Decolonizing Efforts on their Campus Community"
+format: html
+---
+
+::: {#me}
+The Kesalul! I-WIL Too! Commit to ReconciliACTION Series throughout the Fall 2024 academic semester was a dynamic public engagement and educational series led by students as part of campus-community initiative in partnership with Mi’kmaw Kina’matnewey (MK) at Acadia University funding from a nationally competitive grant. This opportunity offered students, the campus, and the local community a unique opportunity to listen, learn, and engage with Indigenous experts from across Canada through a series of public events in the Fall 2024 academic semester at Acadia University. Students also had the opportunity to engage with Indigenous experts during classtime. The project was established by a relationship with the Mi'kmaq partner and with Indigenous community experts from across Canada who engaged in policy dialogues, in-person or virtually, addressing a range of issues and opportunities related to Canada’s commitment to acting upon the 94 Calls to Action of the National Truth and Reconciliation of Canada’s Final Report (2015) The public events brought together together Indigenous Elders, knowledge holders, artists, policy leaders, and students for a unique experiential learning journey.
+
+The ReconciliACTION Series is a celebration of Indigenous knowledge and critical hope, contributes to ongoing efforts toward truth and reconciliation, and honours the spirit of “Kesalul!”, which means “I love you”, through ReconciliACTION.
+:::
