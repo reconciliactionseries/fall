@@ -4,9 +4,9 @@ project:
   
 website:
   #title: "ReconciliAction Series Fall 2024"
-  #site-url: https://lanholeto.github.io/portfolio/
-  #description: "Researcher and educator with cell and molecular expertise "
-  favicon: img/icons8-human.svg
+  site-url: https://reconciliactionseries.github.io/fall
+  description: "all 2024 Kesalul! I-WIL Commit to ReconciliACTION Mawio’mi and Indigenous Experts Policy Circle Dialogue Series - a one-semester learning initiative hosted at Acadia University."
+  favicon: img/university-svgrepo-com.svg
   page-navigation: true
   back-to-top-navigation: true
   navbar:

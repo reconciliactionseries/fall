@@ -1,6 +1,6 @@
 ---
 title: "Kesalul! I-WIL Commit to ReconciliACTION Series"
-subtitle: "A campus-community initiative, hosted at Acadia University, to listen to, learn from and engage with Indigenous experts from across Canada in Fall 2024."
+subtitle: "A campus-community initiative, hosted at Acadia University (Wolfville, NS, Canada), to listen to, learn from and engage with Indigenous experts from across Canada in Fall 2024."
 about:
   id: me
   template: jolla
@@ -13,29 +13,39 @@ format:
 ---
 
 ::: {#me}
-Welcome to the Kesalul! I-WIL Commit to ReconciliACTION Series Website! Explore the Fall 2024 *Kesalul! I-WIL Commit to ReconciliACTION Mawio’mi and Indigenous Experts Policy Circle Dialogue Series* - a one-semester learning initiative hosted at Acadia University.
+Welcome to the Kesalul! I-WIL Commit to ReconciliACTION Series Website! Explore the Fall 2024 *Kesalul! I-WIL Commit to ReconciliACTION Mawio’mi and Indigenous Experts Policy Circle Dialogue Series* - a one-semester learning initiative hosted at Acadia University (Wolfville, NS, Canada).
 
 This unique opportunity brought together Indigenous experts from across Canada for a series of engaging public events focused on dialogue, policy, truth and reconciliation. It was led by a team of Acadia University faculty, staff, and partners, including the following: Campus Faculty Lead, Dr. Cynthia J. Alexander; Indigenous Campus Staff Co-Organizer, Darlene Peters Copeland from Glooscap First Nation; and Mi’kmaq Nation Project Partner, Ann Sylliboy, from Mi'kmaw Kina'matnewey.
 
 This website was created to make publicly accessible the knowledge and insights co-created by showcase Acadia University students' work in three Politics courses taught by Dr. C. J. Alexander: *POLS 1303 Law, Politics & Government, POLS 2003 Introduction to Public Policy, and POLS 3103 Human Rights in Northern Canada*, culminating in a final gala presentation held on November 21, 2024.
 
-The ReconciliACTION Series is a celebration of Indigenous knowledge and critical hope, contributes to ongoing efforts toward truth and reconciliation, and honours the spirit of “Kesalul!”, which means “I love you”.
+The ReconciliACTION Series is a celebration of Indigenous knowledge and critical hope, contributes to ongoing efforts toward truth and reconciliation, and honours the spirit of *“Kesalul!”*, which means *“I love you”*.
 
-Join us and say "Kesalul!" through ReconciliACTION Series!
+Join us and say **"Kesalul!"** through **ReconciliACTION Series!**
 
 <h3 style="text-align: left; font-size: 1.3em">
+
 **Explore the Pages**
+
 </h3>
 
 <ul class="page-list" style="font-size: 1em;">
-  <li><a href="about/about.qmd">The ReconciliACTION Series</a></li>
-  <li><a href="program/program.qmd">Program / Photo Gallery</a></li>
-  <li><a href="pols3103/pols3103.qmd" target="_blank" rel="noopener noreferrer">POLS 3103 showcase</a></li>
-  <li><a href="pols1303/pols1303.qmd" target="_blank" rel="noopener noreferrer">POLS 1303 showcase</a></li>
-  <li><a href="pols2003/pols2003.qmd" target="_blank" rel="noopener noreferrer">POLS 2003 showcase</a></li>
-  <li><a href="past_events/past_events.qmd" target="_blank" rel="noopener noreferrer">Past Events</a></li>
+
+<li><a href="about/about.qmd">The ReconciliACTION Series</a></li>
+
+<li><a href="program/program.qmd">Program / Photo Gallery</a></li>
+
+<li><a href="pols3103/pols3103.qmd" target="_blank" rel="noopener noreferrer">POLS 3103 showcase</a></li>
+
+<li><a href="pols1303/pols1303.qmd" target="_blank" rel="noopener noreferrer">POLS 1303 showcase</a></li>
+
+<li><a href="pols2003/pols2003.qmd" target="_blank" rel="noopener noreferrer">POLS 2003 showcase</a></li>
+
+<li><a href="past_events/past_events.qmd" target="_blank" rel="noopener noreferrer">Past Events</a></li>
+
 </ul>
 
+```{=html}
 <style>
 .page-list {
   list-style-type: none;      /* remove os bullets */
@@ -60,3 +70,5 @@ Join us and say "Kesalul!" through ReconciliACTION Series!
   color: #003d80;
 }
 </style>
+```
+:::

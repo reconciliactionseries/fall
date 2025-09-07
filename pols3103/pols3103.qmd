@@ -3,6 +3,8 @@ title: "POLS 3103 Human Rights in Northern Canada"
 format: html
 ---
 
-Students' Collective Journey: Over the course of 12 weeks in our POLS-3103: Human Rights in Northern Canada course, as a class, we have developed a deeper understanding of the challenges faced by Inuit communities, especially in relation to the social determinants of health. We aim to share our knowledge and elevate Inuit voices on critical issues, such as housing, education, food insecurity, and cultural preservation, and advocate for meaningful changes that foster resilience and well-being. Our policy briefs highlight key issues Inuit communities face and offer actionable insights for positive change. We hope to engage others in recognizing these challenges and to inspire support for justice, reconciliation, and the strengthening of Inuit communities’ resilience.
+**Students' Collective Journey:**
+
+Over the course of 12 weeks in our **POLS-3103: Human Rights in Northern Canada** course, as a class, we have developed a deeper understanding of the challenges faced by Inuit communities, especially in relation to the social determinants of health. We aim to share our knowledge and elevate Inuit voices on critical issues, such as housing, education, food insecurity, and cultural preservation, and advocate for meaningful changes that foster resilience and well-being. Our policy briefs highlight key issues Inuit communities face and offer actionable insights for positive change. We hope to engage others in recognizing these challenges and to inspire support for justice, reconciliation, and the strengthening of Inuit communities’ resilience.
 
 <embed src="pols3103.pdf" type="application/pdf" width="100%" height="600px" />

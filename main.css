@@ -112,3 +112,49 @@ main.content {
   max-width: 1200px; /* ou 100%, dependendo do que quiser */
   margin: 0 auto;
 }
+
+.year-links{
+display:flex !important;
+flex-wrap:wrap;
+justify-content:center;
+align-items:stretch;
+gap:18px;
+width:100%;
+max-width:1000px;
+margin:32px auto;
+padding:0;
+text-align:initial;
+box-sizing:border-box;
+}
+
+.year-links > a{
+flex:0 0 calc(20% - 18px) !important; /* 5 per row */
+display:block;
+box-sizing:border-box;
+padding:14px 18px;
+border-radius:14px;
+text-align:center;
+text-decoration:none;
+font-weight:700;
+letter-spacing:.2px;
+color:#fff;
+background:linear-gradient(135deg,#0b5bd7,#0a3f97);
+border:1px solid rgba(255,255,255,.18);
+box-shadow:0 10px 24px rgba(13,27,66,.22), inset 0 1px 0 rgba(255,255,255,.08);
+transition:transform .18s ease, box-shadow .18s ease, background .18s ease, filter .18s ease;
+font-size:1.05rem;
+}
+
+.year-links > a:hover{
+background:linear-gradient(135deg,#a6192e,#7f1322);
+transform:translateY(-3px);
+box-shadow:0 16px 28px rgba(13,27,66,.28), inset 0 1px 0 rgba(255,255,255,.10);
+filter:saturate(1.05);
+}
+
+.year-links > a:active{ transform:translateY(0); box-shadow:0 8px 16px rgba(13,27,66,.2); }
+.year-links > a:focus-visible{ outline:3px solid #ffd166; outline-offset:3px; }
+
+@media (max-width:992px){ .year-links > a{ flex-basis:calc(25% - 18px); } } /* 4 per row /
+@media (max-width:768px){ .year-links > a{ flex-basis:calc(33.333% - 18px); } }/ 3 per row /
+@media (max-width:576px){ .year-links > a{ flex-basis:calc(50% - 18px); } } / 2 per row */

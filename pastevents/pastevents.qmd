@@ -7,6 +7,7 @@ editor:
 ---
 Since 2004, students and community members have come together through these events to share knowledge, build relationships, and walk the path of reconciliation. This collection is a tribute to the creativity, commitment, and care that have shaped each gathering. We celebrate the memories, friendships, and learning that continue to inspire our journey today.
 Click on each year to explore the events, and don’t forget to check the additional links at the end for even more stories and resources.
+
 ::: year-links
 <a href="pastevents/2004.pdf" target="_blank" rel="noopener noreferrer">2004</a>
 <a href="pastevents/2010.pdf" target="_blank" rel="noopener noreferrer">2010</a>
